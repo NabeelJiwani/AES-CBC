@@ -8,7 +8,7 @@ These is a Simple Sample Program to Implement AES-256 CBC Mode in Python
  It has a bit of GUI interface. 
  
 
-#Usage:
+# Usage:
 ```
 sudo apt-get install git
 git clone https://github.com/NabeelJiwani/AES-CBC.git
