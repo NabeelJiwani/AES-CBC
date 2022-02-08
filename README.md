@@ -10,9 +10,9 @@ These is a Simple Sample Program to Implement AES-256 CBC Mode in Python
 
 Usage:
 <code>
-sudo apt-get install git
-git clone https://github.com/NabeelJiwani/AES-CBC.git
-cd AES-CBC/
-pip3 install -r requirements.txt
-python3 encryption.py
+sudo apt-get install git\n
+git clone https://github.com/NabeelJiwani/AES-CBC.git\n
+cd AES-CBC/\n
+pip3 install -r requirements.txt\n
+python3 encryption.py\n
 </code>
