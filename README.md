@@ -12,10 +12,13 @@ sudo apt-get update
 sudo apt-get install git
 ```
 
-## Usage :
+## Setup :
 ```bash
 git clone https://github.com/NabeelJiwani/AES-CBC.git
 cd AES-CBC
 pip3 install -r requirements.txt
+```
+## Usage:
+```bash
 python3 encryption.py
 ```
