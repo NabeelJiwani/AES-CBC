@@ -1,6 +1,7 @@
 # AES-256 CBC with PBKDF2 in Python 
-Encrypt\Decrypt Data in Python*separate paragraph*.
-These is Simple Program which performs Encryption and Decryption, practical Example, Usage might be Differnt in Different Cases*separate paragraph*.
+Encrypt\Decrypt Data in Python.
+
+These is Simple Program which performs Encryption and Decryption, practical Example, Usage might be Differnt in Different Cases.
 
 Git Should be Installed on your System *separate paragraph*.
 
