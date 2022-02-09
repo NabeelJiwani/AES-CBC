@@ -3,7 +3,14 @@ Encrypt\Decrypt Data in Python.
 
 These is Simple Program which performs Encryption and Decryption, practical Example, Usage might be Differnt in Different Cases.
 
-Git Should be Installed on your System *separate paragraph*.
+To use Git You Should have Git Installed in your System.
+### For Windows:
+Download Git from [Official Site](https://git-scm.com/downloads)
+### For Lunux:
+```bash
+sudo apt-get update
+sudo apt-get install git
+```
 
 ## Usage :
 ```bash
