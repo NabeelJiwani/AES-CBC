@@ -6,7 +6,7 @@ These is Simple Program which performs Encryption and Decryption, practical Exam
 To use Git You Should have Git Installed in your System.
 ### For Windows:
 Download Git from [Official Site](https://git-scm.com/downloads)
-### For Lunux:
+### For Linux:
 ```bash
 sudo apt-get update
 sudo apt-get install git
