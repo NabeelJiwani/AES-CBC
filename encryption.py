@@ -102,7 +102,7 @@ def listit(context):
 
 			"""
 
-			cwd = filedialog.askdirectory(title='Select a folder', parent=parent, initialdir=os.environ["HOME"])
+			cwd = filedialog.askdirectory(title='Select a folder', parent=parent, initialdir = (os.environ["HOME"] if os.name == 'posix' else os.environ['HOMEPATH']) )
 			
 			
 			if cwd == () or cwd == "":
