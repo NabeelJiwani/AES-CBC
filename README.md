@@ -11,7 +11,6 @@ Download Git from [Official Site](https://git-scm.com/downloads)
 sudo apt-get update
 sudo apt-get install git
 sudo apt-get install python3 
-sudo apt-get install python-tkinter
 ```
 
 ## Setup :
