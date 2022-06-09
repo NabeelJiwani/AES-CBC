@@ -1,2 +1,3 @@
 pycrypto>=2.6.1
 pycryptodome>=3.14.1
+maskpass
